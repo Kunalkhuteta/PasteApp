@@ -1,0 +1,6 @@
+.navbar{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    place-content: space-evenly;
+}

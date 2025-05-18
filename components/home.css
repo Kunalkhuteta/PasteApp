@@ -1,0 +1,40 @@
+.homediv{
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+    place-content: space-evenly;
+}
+.inputCss{
+     padding:2px 17px;
+    border-radius: 10px;
+    margin: 4px;
+    width: 66%;
+}
+button{
+    padding:2px;
+    border-radius: 10px;
+    margin: 4px;
+}
+textarea{
+    padding:4px;
+    border-radius: 10px;
+    margin: 4px;
+    width: 500px;
+}
+.textAreaDiv{
+    margin: 20px;
+}
+Button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  ;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+   ;
+  ;
+}
+.inputCss{
+    background-color:rgb(37, 37, 51);
+    width: 300px;
+}
